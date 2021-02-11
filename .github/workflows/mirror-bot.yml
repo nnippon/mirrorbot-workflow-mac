@@ -12,9 +12,8 @@ defaults:
 
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "manofuranium@gmail.com"
-  GitHubName: "ElytrA8" 
-  BRANCH: "#2"
+  GitHubMail: "aayyad9@students.iugaza.edu.ps"
+  GitHubName: "nnippon" 
 
 jobs:
   build:
